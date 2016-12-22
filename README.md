@@ -4,5 +4,6 @@ This is my first *repository*, I am thinking about creating a *TCP socket* based
 * It will be fun
 * It will be simple
   * I am intanding to build it based on the lean startup model
+  whats that?
 something like the ![*million dollar homepage*]()
 
